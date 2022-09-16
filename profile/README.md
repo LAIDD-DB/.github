@@ -13,41 +13,41 @@
  
  &nbsp; :white_check_mark: &nbsp;**실습 DB 목록(가나다 순)**
  
- &nbsp; &nbsp; &nbsp; :small_blue_diamond: <a href="https://github.com/LAIDD-DB/Molecular-Properties-Prediction-using-Graph-Transformer">그래프 트랜스포머를 활용한 분자 물성 예측</a> (이유한, 카카오브레인) `AI` `Chemical`
+ &nbsp; &nbsp; &nbsp; :seedling: <a href="https://github.com/LAIDD-DB/Molecular-Properties-Prediction-using-Graph-Transformer">그래프 트랜스포머를 활용한 분자 물성 예측</a> (이유한, 카카오브레인) `AI` `Chemical`
  
- &nbsp; &nbsp; &nbsp; :small_blue_diamond: <a href="https://github.com/LAIDD-DB/Contact-Prediction-using-Protein-Language-Models">단백질 언어 모델을 활용한 컨텍트 예측</a> (김재훈, 카카오브레인) `AI` `Chemical`
+ &nbsp; &nbsp; &nbsp; :seedling: <a href="https://github.com/LAIDD-DB/Contact-Prediction-using-Protein-Language-Models">단백질 언어 모델을 활용한 컨텍트 예측</a> (김재훈, 카카오브레인) `AI` `Chemical`
  
- &nbsp; &nbsp; &nbsp; :small_blue_diamond: <a href="https://github.com/LAIDD-DB/Docking-Program-Practice">도킹 프로그램 사용 실습</a> (홍승환, KAICD) `Chemical`
+ &nbsp; &nbsp; &nbsp; :seedling: <a href="https://github.com/LAIDD-DB/Docking-Program-Practice">도킹 프로그램 사용 실습</a> (홍승환, KAICD) `Chemical`
  
- &nbsp; &nbsp; &nbsp; :small_blue_diamond: <a href="https://github.com/LAIDD-DB/Toxicity-Prediction-AI-Models">독성 예측 인공지능 모델 활용</a> (신헌길, 안전성평가연구소) `AI` `Chemical`
+ &nbsp; &nbsp; &nbsp; :seedling: <a href="https://github.com/LAIDD-DB/Toxicity-Prediction-AI-Models">독성 예측 인공지능 모델 활용</a> (신헌길, 안전성평가연구소) `AI` `Chemical`
  
- &nbsp; &nbsp; &nbsp; :small_blue_diamond: <a href="https://github.com/LAIDD-DB/Large-scale-Computation-using-Parallel-Processing">병렬 처리를 활용한 대용량 계산 방법</a> (정인석, 스탠다임) `AI`
+ &nbsp; &nbsp; &nbsp; :seedling: <a href="https://github.com/LAIDD-DB/Large-scale-Computation-using-Parallel-Processing">병렬 처리를 활용한 대용량 계산 방법</a> (정인석, 스탠다임) `AI`
  
- &nbsp; &nbsp; &nbsp; :small_blue_diamond: <a href="https://github.com/LAIDD-DB/R-Programming-for-Bioinformatics">생물정보학을 위한 R프로그래밍</a> (이해승, 부산대) `Bio`
+ &nbsp; &nbsp; &nbsp; :seedling: <a href="https://github.com/LAIDD-DB/R-Programming-for-Bioinformatics">생물정보학을 위한 R프로그래밍</a> (이해승, 부산대) `Bio`
  
- &nbsp; &nbsp; &nbsp; :small_blue_diamond: <a href="https://github.com/LAIDD-DB/Deep-Learning-Framework-for-AI-Drug-Discovery">신약 개발을 위한 딥러닝 프레임워크 기초</a> (홍성은&방준일, 강원대) `AI`
+ &nbsp; &nbsp; &nbsp; :seedling: <a href="https://github.com/LAIDD-DB/Deep-Learning-Framework-for-AI-Drug-Discovery">신약 개발을 위한 딥러닝 프레임워크 기초</a> (홍성은&방준일, 강원대) `AI`
  
- &nbsp; &nbsp; &nbsp; :small_blue_diamond: <a href="https://github.com/LAIDD-DB/Molecular-Properties-Prediction-using-Graph-Transformer">신약개발을 위한 다중모달 표현학습</a> (이유한, 카카오브레인) `AI` `Chemical`
+ &nbsp; &nbsp; &nbsp; :seedling: <a href="https://github.com/LAIDD-DB/Molecular-Properties-Prediction-using-Graph-Transformer">신약개발을 위한 다중모달 표현학습</a> (이유한, 카카오브레인) `AI` `Chemical`
  
- &nbsp; &nbsp; &nbsp; :small_blue_diamond: <a href="https://github.com/LAIDD-DB/Quantitative-System-Pharmacology-for-Drug-Discovery">신약개발을 위한 정량시스템약리학의 이해</a> (윤휘열, 충남대) `Drug`
+ &nbsp; &nbsp; &nbsp; :seedling: <a href="https://github.com/LAIDD-DB/Quantitative-System-Pharmacology-for-Drug-Discovery">신약개발을 위한 정량시스템약리학의 이해</a> (윤휘열, 충남대) `Drug`
  
- &nbsp; &nbsp; &nbsp; :small_blue_diamond: <a href="https://github.com/LAIDD-DB/Cancer-Genome-Big-Data">암 유전체 빅 데이터</a> (홍동완, 가톨릭대) `Bio`
+ &nbsp; &nbsp; &nbsp; :seedling: <a href="https://github.com/LAIDD-DB/Cancer-Genome-Big-Data">암 유전체 빅 데이터</a> (홍동완, 가톨릭대) `Bio`
  
- &nbsp; &nbsp; &nbsp; :small_blue_diamond: <a href="https://github.com/LAIDD-DB/Graph-basics-for-AI-Drug-Discovery">인공지능 신약개발을 위한 그래프 기초</a> (방준일, 강원대) `AI`
+ &nbsp; &nbsp; &nbsp; :seedling: <a href="https://github.com/LAIDD-DB/Graph-basics-for-AI-Drug-Discovery">인공지능 신약개발을 위한 그래프 기초</a> (방준일, 강원대) `AI`
  
- &nbsp; &nbsp; &nbsp; :small_blue_diamond: <a href="https://github.com/LAIDD-DB/Math-for-Machine-Learning">인공지능을 위한 선형대수학</a> (이일구, 팜캐드) `AI`
+ &nbsp; &nbsp; &nbsp; :seedling: <a href="https://github.com/LAIDD-DB/Math-for-Machine-Learning">인공지능을 위한 선형대수학</a> (이일구, 팜캐드) `AI`
  
- &nbsp; &nbsp; &nbsp; :small_blue_diamond: <a href="https://github.com/LAIDD-DB/Math-for-Machine-Learning">인공지능을 위한 확률통계</a> (이일구, 팜캐드) `AI`
+ &nbsp; &nbsp; &nbsp; :seedling: <a href="https://github.com/LAIDD-DB/Math-for-Machine-Learning">인공지능을 위한 확률통계</a> (이일구, 팜캐드) `AI`
  
- &nbsp; &nbsp; &nbsp; :small_blue_diamond: <a href="https://github.com/LAIDD-DB/Basics-of-Clinical-Pharmacokinetics-and-Pharmacodynamic">임상 약동학 및 약력학의 기초</a> (오재성, 서울대병원) `Drug`
+ &nbsp; &nbsp; &nbsp; :seedling: <a href="https://github.com/LAIDD-DB/Basics-of-Clinical-Pharmacokinetics-and-Pharmacodynamic">임상 약동학 및 약력학의 기초</a> (오재성, 서울대병원) `Drug`
  
- &nbsp; &nbsp; &nbsp; :small_blue_diamond: <a href="https://github.com/LAIDD-DB/Basics-of-Pytorch-Lightning">효율적인 딥러닝 코드 작성을 위한 파이토치 라이트닝 기초</a> (조한석, AITRICS) `AI`
+ &nbsp; &nbsp; &nbsp; :seedling: <a href="https://github.com/LAIDD-DB/Basics-of-Pytorch-Lightning">효율적인 딥러닝 코드 작성을 위한 파이토치 라이트닝 기초</a> (조한석, AITRICS) `AI`
  
- &nbsp; &nbsp; &nbsp; :small_blue_diamond: <a href="https://github.com/LAIDD-DB/Deep-Learning-based-Molecular-Generation">Deep Learning based Molecular Generation</a> (이일구, 팜캐드) `AI` `Chemical`
+ &nbsp; &nbsp; &nbsp; :seedling: <a href="https://github.com/LAIDD-DB/Deep-Learning-based-Molecular-Generation">Deep Learning based Molecular Generation</a> (이일구, 팜캐드) `AI` `Chemical`
  
- &nbsp; &nbsp; &nbsp; :small_blue_diamond: <a href="https://github.com/LAIDD-DB/Protein-Data-Bank-Analysis ">Protein data bank 분석</a> (홍승환, KAICD) `Chemical`
+ &nbsp; &nbsp; &nbsp; :seedling: <a href="https://github.com/LAIDD-DB/Protein-Data-Bank-Analysis ">Protein data bank 분석</a> (홍승환, KAICD) `Chemical`
  
- &nbsp; &nbsp; &nbsp; :small_blue_diamond: <a href="https://github.com/LAIDD-DB/RDKit-basics-and-Chemoinformatics-Practice">RDKit의 기초와 이를 이용한 화학정보학 실습</a> (이주용, 강원대) `Chemical`
+ &nbsp; &nbsp; &nbsp; :seedling: <a href="https://github.com/LAIDD-DB/RDKit-basics-and-Chemoinformatics-Practice">RDKit의 기초와 이를 이용한 화학정보학 실습</a> (이주용, 강원대) `Chemical`
  
 # :star: &nbsp;관련 사업 소개
  &nbsp; :white_check_mark: &nbsp;**사업명 :** 인공지능(AI) 활용 신약개발 교육 및 홍보 사업
