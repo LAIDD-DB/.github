@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/113582196/190530961-0c340d23-0d2e-4d45-ab29-94ada812a85a.png"></p>
+<a href="https://laidd.org"><p align="center"><img src="https://user-images.githubusercontent.com/113582196/190530961-0c340d23-0d2e-4d45-ab29-94ada812a85a.png"></p></a>
 
 # 소개(Introduction)
 <p align="center"><img src="https://user-images.githubusercontent.com/113582196/190531613-e8d152ef-0b65-4057-b0d8-50d8728104cf.png"></p>
