@@ -4,7 +4,7 @@
 ### 1. 사업 개요
 - **사업명 :** 인공지능(AI) 활용 신약개발 교육 및 홍보 사업
 - **주무부처/전담기관 :** 보건복지부/한국보건산업진흥원
-- **수행기관 :** (사)한국제약바이오협회 <a href="https://www.kaicd.org">인공지능신약개발지원센터(KAICD)</a>
+- **수행기관 :** (사)한국제약바이오협회 <a href="http://www.kaicd.org">인공지능신약개발지원센터(KAICD)</a>
 ### 2. 플랫폼 개요
 - **명칭 :** <a href="https://www.laidd.org">LAIDD(Lectures on AI-driven Drug Discovery)</a>
 - **목적 :** 인공지능 신약개발 전 과정에 대한 만족도 높은 학습 환경 지원
