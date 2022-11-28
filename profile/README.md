@@ -8,7 +8,7 @@
  &nbsp; :white_check_mark: &nbsp;**규모 :** 인공지능 신약개발 관련 <a href="https://www.laidd.org/html/intro/bio/total.php">100여개 350시간 이상의 무료 강의</a> 제공
 
  &nbsp; :white_check_mark: &nbsp;**특징 :** 다양한 분야의 지식을 필요로 하는 인공지능 신약개발 연구자들의 학습 방향을 제시해주는 <a href="https://www.laidd.org/html/intro/bio/learning.php">맞춤형 커리큘럼(러닝트랙)</a> 제공
-# :star: &nbsp;LAIDD DB
+# :star: &nbsp;LAIDD DB(2022.11.28 업데이트)
  &nbsp; :white_check_mark: &nbsp;**목적 :** 다양한 교육용 실습 프로그램(코드) 및 데이터 사전 준비를 통한 LAIDD 실습 예제 위주 교육 강화
  
  &nbsp; :white_check_mark: &nbsp;**실습 DB 목록(가나다 순)**
