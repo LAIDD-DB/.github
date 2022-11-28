@@ -25,6 +25,8 @@
  
  &nbsp; &nbsp; &nbsp; :seedling: <a href="https://github.com/LAIDD-DB/R-Programming-for-Bioinformatics">생물정보학을 위한 R프로그래밍</a> (이해승, 부산대) `Bio`
  
+  &nbsp; &nbsp; &nbsp; :seedling: <a href="https://github.com/LAIDD-DB/Machine-Learning-for-Drug-Discovery">신약 개발에 필요한 머신러닝 이해</a> (김화종, 강원대) `AI`
+ 
  &nbsp; &nbsp; &nbsp; :seedling: <a href="https://github.com/LAIDD-DB/Deep-Learning-Framework-for-AI-Drug-Discovery">신약 개발을 위한 딥러닝 프레임워크 기초</a> (홍성은&방준일, 강원대) `AI`
  
  &nbsp; &nbsp; &nbsp; :seedling: <a href="https://github.com/LAIDD-DB/Molecular-Properties-Prediction-using-Graph-Transformer">신약개발을 위한 다중모달 표현학습</a> (이유한, 카카오브레인) `AI` `Chemical`
