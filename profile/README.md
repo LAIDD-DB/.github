@@ -41,7 +41,11 @@
  
  &nbsp; &nbsp; &nbsp; :seedling: <a href="https://github.com/LAIDD-DB/Math-for-Machine-Learning">인공지능을 위한 확률통계</a> (이일구, 팜캐드) `AI`
  
+ &nbsp; &nbsp; &nbsp; :seedling: <a href="https://github.com/LAIDD-DB/WGS-Genetic-Variation-Analysis">인공지능을 활용한 전장유전체 유전변이분석</a> (안준용, 고려대) `AI` `Bio`
+ 
  &nbsp; &nbsp; &nbsp; :seedling: <a href="https://github.com/LAIDD-DB/Basics-of-Clinical-Pharmacokinetics-and-Pharmacodynamic">임상 약동학 및 약력학의 기초</a> (오재성, 서울대병원) `Drug`
+ 
+ &nbsp; &nbsp; &nbsp; :seedling: <a href="https://github.com/LAIDD-DB/WGS-Genetic-Variation-Analysis">전장유전체 변이분석의 이해</a> (안준용, 고려대) `Bio`
  
  &nbsp; &nbsp; &nbsp; :seedling: <a href="https://github.com/LAIDD-DB/Basics-of-Pytorch-Lightning">효율적인 딥러닝 코드 작성을 위한 파이토치 라이트닝 기초</a> (조한석, AITRICS) `AI`
  
