@@ -11,6 +11,8 @@
 # :star: &nbsp;LAIDD DB(2022.12.13 업데이트)
  &nbsp; :white_check_mark: &nbsp;**목적 :** 다양한 교육용 실습 프로그램(코드) 및 데이터 사전 준비를 통한 LAIDD 실습 예제 위주 교육 강화
  
+ &nbsp; :white_check_mark: &nbsp;**현황 :** 교육용 실습 프로그램(코드) 21건, 실습 데이터 7건(2022.12.13 기준)
+ 
  &nbsp; :white_check_mark: &nbsp;**실습 DB 목록(가나다 순)**
  
  &nbsp; &nbsp; &nbsp; :seedling: <a href="https://github.com/LAIDD-DB/Molecular-Properties-Prediction-using-Graph-Transformer">그래프 트랜스포머를 활용한 분자 물성 예측</a> (이유한, 카카오브레인) `AI` `Chemical`
