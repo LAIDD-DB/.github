@@ -56,6 +56,8 @@
  &nbsp; &nbsp; &nbsp; :seedling: <a href="https://github.com/LAIDD-DB/Protein-Data-Bank-Analysis ">Protein data bank 분석</a> (홍승환, KAICD) `Chemical` `Data`
  
  &nbsp; &nbsp; &nbsp; :seedling: <a href="https://github.com/LAIDD-DB/RDKit-basics-and-Chemoinformatics-Practice">RDKit의 기초와 이를 이용한 화학정보학 실습</a> (이주용, 강원대) `Chemical`
+
+ 
  
 # :star: &nbsp;관련 사업 소개
  &nbsp; :white_check_mark: &nbsp;**사업명 :** 인공지능(AI) 활용 신약개발 교육 및 홍보 사업
